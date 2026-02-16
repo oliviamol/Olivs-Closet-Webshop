@@ -1,5 +1,5 @@
 # olivs-closet-webshop
-# 👗 Oliv's Closet
+#  Oliv's Closet
 
 **Oliv's Closet** este un proiect de tip magazin online realizat în perioada liceului. Acesta reprezintă primul meu pas în dezvoltarea web, fiind creat pentru a învăța cum să construiesc o interfață atractivă și funcțională de la zero.
 
