@@ -1,5 +1,6 @@
 # olivs-closet-webshop
-<img width="500" height="250" alt="Screenshot 2026-02-28 001510" src="https://github.com/user-attachments/assets/97ab01fe-98cd-4f58-a4a6-7c85e151f77b" />
+<img width="500" height="250" alt="Screenshot 2026-02-28 001510" src="https://github.com/user-attachments/assets/97ab01fe-98cd-4f58-a4a6-7c85e151f77b" /> <img width="500" height="250" alt="Screenshot 2026-02-28 001528" src="https://github.com/user-attachments/assets/256061ff-291e-467e-b47f-05610b629341" />
+
 
 
 #  Oliv's Closet
