@@ -1,4 +1,7 @@
 # olivs-closet-webshop
+<img width="180" height="30" alt="Screenshot 2026-02-28 001510" src="https://github.com/user-attachments/assets/97ab01fe-98cd-4f58-a4a6-7c85e151f77b" />
+
+
 #  Oliv's Closet
 
 **Oliv's Closet** este un proiect de tip magazin online realizat în perioada liceului. Acesta reprezintă primul meu pas în dezvoltarea web, fiind creat pentru a învăța cum să construiesc o interfață atractivă și funcțională de la zero.
